@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Flowey",
+        "content": "only 5 inches",
+        "price": 120000,
+        "img": "https://00anuyh.github.io/reactProject-image/cont3_cake1.png"
+    },
+    {
+        "id": 2,
+        "title": "Baby shoes",
+        "content": "for less than 6",
+        "price": 120000,
+        "img": "https://00anuyh.github.io/reactProject-image/cont3_cake2.png"
+    },
+    {
+        "id": 3,
+        "title": "Red Herring",
+        "content": "Born in France",
+        "price": 120000,
+        "img": "https://00anuyh.github.io/reactProject-image/cont3_cake3.png"
+    },
+    {
+        "id": 4,
+        "title": "Flowey",
+        "content": "only 5 inches",
+        "price": 120000,
+        "img": "https://00anuyh.github.io/reactProject-image/cont3_cake4.png"
+    },
+    {
+        "id": 5,
+        "title": "Baby shoes",
+        "content": "for less than 6",
+        "price": 120000,
+        "img": "https://00anuyh.github.io/reactProject-image/cont3_cake5.png"
+    },
+    {
+        "id": 6,
+        "title": "Red Herring",
+        "content": "Born in France",
+        "price": 120000,
+        "img": "https://00anuyh.github.io/reactProject-image/cont3_cake6.png"
+    },
+    {
+        "id": 7,
+        "title": "Flowey",
+        "content": "only 5 inches",
+        "price": 120000,
+        "img": "https://00anuyh.github.io/reactProject-image/cont3_cake7.png"
+    },
+    {
+        "id": 8,
+        "title": "Baby shoes",
+        "content": "for less than 6",
+        "price": 120000,
+        "img": "https://00anuyh.github.io/reactProject-image/cont3_cake8.png"
+    },
+    {
+        "id": 9,
+        "title": "Red Herring",
+        "content": "Born in France",
+        "price": 120000,
+        "img": "https://00anuyh.github.io/reactProject-image/cont3_cake9.png"
+    },
+    {
+        "id": 10,
+        "title": "Red Herring",
+        "content": "Born in France",
+        "price": 120000,
+        "img": "https://00anuyh.github.io/reactProject-image/cont3_cake10.png"
+    }
+]
